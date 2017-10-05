@@ -12,8 +12,8 @@ before_script:
 
 script:
     - cd tests/features
-    - python TestAreaFiguras.py
-    - coverage run --branch TestAreaFiguras.py
+    - python TestAreaFigura.py
+    - coverage run --branch TestAreaFigura.py
     - coverage report
     - cd ..
     - lettuce
