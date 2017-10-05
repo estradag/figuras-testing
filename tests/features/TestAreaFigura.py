@@ -1,6 +1,6 @@
 # coding=utf-8
 import unittest
-from areasfigura import AreaFigura
+from areafigura import AreaFigura
 
 class TestAreaFigura(unittest.TestCase):
 
